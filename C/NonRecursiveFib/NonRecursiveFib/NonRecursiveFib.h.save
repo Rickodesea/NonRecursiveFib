@@ -1,0 +1,6 @@
+#ifndef NONRECURSIVEFIB_H
+#define NONRECURSIVEFIB_H
+
+void nrFib_init(int numberofFibs);
+
+#endif // NONRECURSIVEFIB_H

@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main(){
+    const int numberOfFibs = 10;
+
+    nrFib_init(numberOfFibs);
+
+    while(-1 != nrFib_nextFib()){
+        printf("")
+    }
+}
